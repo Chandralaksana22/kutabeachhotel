@@ -75,11 +75,6 @@ export default defineNuxtConfig({
       },
     },
   },
-  runtimeConfig: {
-    public: {
-      baseURL: 'http://50.6.171.246/~kutabeachhotel/cms/api/v1/',
-    },
-  },
   vite: {
     build: {
       cssCodeSplit: true,

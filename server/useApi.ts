@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const BASE_URL = 'http://50.6.171.246/~kutabeachhotel/cms/api/v1/';
+const BASE_URL = 'https://thekutabeachhotel.com/cms/api/v1/';
 
 export const apiClient = axios.create({
   baseURL: BASE_URL,
