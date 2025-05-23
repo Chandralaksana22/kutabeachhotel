@@ -1,0 +1,433 @@
+{
+  "_!~{00g}~.js": {
+    "resourceType": "style",
+    "prefetch": true,
+    "preload": true,
+    "file": "useApi.MKSkVUqR.css",
+    "src": "_!~{00g}~.js"
+  },
+  "_!~{00m}~.js": {
+    "resourceType": "style",
+    "prefetch": true,
+    "preload": true,
+    "file": "splide.D3IVrRzL.css",
+    "src": "_!~{00m}~.js"
+  },
+  "_BCo6x5W8.js": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "BCo6x5W8.js",
+    "name": "_plugin-vue_export-helper"
+  },
+  "_BDJxWqDJ.js": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "BDJxWqDJ.js",
+    "name": "general",
+    "imports": [
+      "_l5R4yqKt.js"
+    ]
+  },
+  "_Bj_555Tp.js": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "Bj_555Tp.js",
+    "name": "HeroSection.vue",
+    "imports": [
+      "_VU1lZaBU.js",
+      "node_modules/nuxt/dist/app/entry.js"
+    ]
+  },
+  "_D89zvxZG.js": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "D89zvxZG.js",
+    "name": "isotope",
+    "isDynamicEntry": true
+  },
+  "_D9x9bpld.js": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "D9x9bpld.js",
+    "name": "room",
+    "imports": [
+      "_l5R4yqKt.js"
+    ]
+  },
+  "_DF_LPFuf.js": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "DF_LPFuf.js",
+    "name": "dining",
+    "imports": [
+      "_l5R4yqKt.js"
+    ]
+  },
+  "_VU1lZaBU.js": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "VU1lZaBU.js",
+    "name": "splide.min",
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.js"
+    ],
+    "css": [
+      "splide.D3IVrRzL.css"
+    ]
+  },
+  "splide.D3IVrRzL.css": {
+    "file": "splide.D3IVrRzL.css",
+    "resourceType": "style",
+    "prefetch": true,
+    "preload": true
+  },
+  "_bibpJFv8.js": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "bibpJFv8.js",
+    "name": "offer",
+    "imports": [
+      "_l5R4yqKt.js"
+    ]
+  },
+  "_l5R4yqKt.js": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "l5R4yqKt.js",
+    "name": "useApi",
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.js"
+    ],
+    "css": [
+      "useApi.MKSkVUqR.css"
+    ],
+    "assets": [
+      "kbhlogo.CdBcdlus.webp"
+    ]
+  },
+  "useApi.MKSkVUqR.css": {
+    "file": "useApi.MKSkVUqR.css",
+    "resourceType": "style",
+    "prefetch": true,
+    "preload": true
+  },
+  "kbhlogo.CdBcdlus.webp": {
+    "file": "kbhlogo.CdBcdlus.webp",
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/webp"
+  },
+  "assets/font/Forum-Regular.ttf": {
+    "resourceType": "font",
+    "mimeType": "font/ttf",
+    "file": "Forum-Regular.B3JaT2ap.ttf",
+    "src": "assets/font/Forum-Regular.ttf"
+  },
+  "assets/font/futura-round-demi.ttf": {
+    "resourceType": "font",
+    "mimeType": "font/ttf",
+    "file": "futura-round-demi.pns3Tswz.ttf",
+    "src": "assets/font/futura-round-demi.ttf"
+  },
+  "node_modules/flowbite/lib/esm/index.js": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "DJDTdnPU.js",
+    "name": "index",
+    "src": "node_modules/flowbite/lib/esm/index.js",
+    "isDynamicEntry": true
+  },
+  "node_modules/nuxt/dist/app/components/error-404.vue": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "B-lEHS2l.js",
+    "name": "error-404",
+    "src": "node_modules/nuxt/dist/app/components/error-404.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.js",
+      "_BCo6x5W8.js"
+    ],
+    "css": []
+  },
+  "error-404.CoZKRZXM.css": {
+    "file": "error-404.CoZKRZXM.css",
+    "resourceType": "style",
+    "prefetch": true,
+    "preload": true
+  },
+  "node_modules/nuxt/dist/app/components/error-500.vue": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "Vs73i6zF.js",
+    "name": "error-500",
+    "src": "node_modules/nuxt/dist/app/components/error-500.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_BCo6x5W8.js",
+      "node_modules/nuxt/dist/app/entry.js"
+    ],
+    "css": []
+  },
+  "error-500.D6506J9O.css": {
+    "file": "error-500.D6506J9O.css",
+    "resourceType": "style",
+    "prefetch": true,
+    "preload": true
+  },
+  "node_modules/nuxt/dist/app/entry.js": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "DHRxNfda.js",
+    "name": "entry",
+    "src": "node_modules/nuxt/dist/app/entry.js",
+    "isEntry": true,
+    "dynamicImports": [
+      "node_modules/flowbite/lib/esm/index.js",
+      "node_modules/nuxt/dist/app/components/error-404.vue",
+      "node_modules/nuxt/dist/app/components/error-500.vue"
+    ],
+    "_globalCSS": true
+  },
+  "pages/contact-us.vue": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "Dvi4k5rz.js",
+    "name": "contact-us",
+    "src": "pages/contact-us.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_l5R4yqKt.js",
+      "_BDJxWqDJ.js",
+      "_D9x9bpld.js",
+      "_DF_LPFuf.js",
+      "_bibpJFv8.js",
+      "node_modules/nuxt/dist/app/entry.js"
+    ]
+  },
+  "pages/destinations.vue": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "CvWyv3jY.js",
+    "name": "destinations",
+    "src": "pages/destinations.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_l5R4yqKt.js",
+      "_Bj_555Tp.js",
+      "_VU1lZaBU.js",
+      "node_modules/nuxt/dist/app/entry.js",
+      "_BDJxWqDJ.js"
+    ]
+  },
+  "pages/dining.vue": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "Cfxcoepf.js",
+    "name": "dining",
+    "src": "pages/dining.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_l5R4yqKt.js",
+      "_Bj_555Tp.js",
+      "_VU1lZaBU.js",
+      "node_modules/nuxt/dist/app/entry.js",
+      "_BDJxWqDJ.js",
+      "_DF_LPFuf.js"
+    ]
+  },
+  "pages/facilities.vue": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "wGqdikDI.js",
+    "name": "facilities",
+    "src": "pages/facilities.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_l5R4yqKt.js",
+      "_Bj_555Tp.js",
+      "_VU1lZaBU.js",
+      "node_modules/nuxt/dist/app/entry.js",
+      "_BDJxWqDJ.js"
+    ]
+  },
+  "pages/gallery.vue": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "DFahFCCp.js",
+    "name": "gallery",
+    "src": "pages/gallery.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.js",
+      "_l5R4yqKt.js",
+      "_Bj_555Tp.js",
+      "_BDJxWqDJ.js",
+      "_VU1lZaBU.js"
+    ],
+    "dynamicImports": [
+      "_D89zvxZG.js"
+    ],
+    "css": []
+  },
+  "gallery.BwrXQ04z.css": {
+    "file": "gallery.BwrXQ04z.css",
+    "resourceType": "style",
+    "prefetch": true,
+    "preload": true
+  },
+  "pages/index.vue": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "r_wCToi8.js",
+    "name": "index",
+    "src": "pages/index.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_l5R4yqKt.js",
+      "_VU1lZaBU.js",
+      "_BCo6x5W8.js",
+      "node_modules/nuxt/dist/app/entry.js",
+      "_Bj_555Tp.js",
+      "_BDJxWqDJ.js",
+      "_D9x9bpld.js",
+      "_DF_LPFuf.js",
+      "_bibpJFv8.js"
+    ]
+  },
+  "pages/meeting-event.vue": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "CsodUGXi.js",
+    "name": "meeting-event",
+    "src": "pages/meeting-event.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_l5R4yqKt.js",
+      "_Bj_555Tp.js",
+      "_VU1lZaBU.js",
+      "node_modules/nuxt/dist/app/entry.js",
+      "_BDJxWqDJ.js"
+    ]
+  },
+  "pages/offers.vue": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "DLK10yyM.js",
+    "name": "offers",
+    "src": "pages/offers.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_l5R4yqKt.js",
+      "_Bj_555Tp.js",
+      "_VU1lZaBU.js",
+      "node_modules/nuxt/dist/app/entry.js",
+      "_BDJxWqDJ.js",
+      "_bibpJFv8.js"
+    ]
+  },
+  "pages/rooms/[slug].vue": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "DJmPuSYj.js",
+    "name": "_slug_",
+    "src": "pages/rooms/[slug].vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_D9x9bpld.js",
+      "node_modules/nuxt/dist/app/entry.js",
+      "_VU1lZaBU.js",
+      "_l5R4yqKt.js"
+    ]
+  },
+  "pages/rooms/index.vue": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "CMoZJfM1.js",
+    "name": "index",
+    "src": "pages/rooms/index.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_l5R4yqKt.js",
+      "_Bj_555Tp.js",
+      "_VU1lZaBU.js",
+      "node_modules/nuxt/dist/app/entry.js",
+      "_BDJxWqDJ.js",
+      "_D9x9bpld.js"
+    ]
+  },
+  "public/images/bgpattern.webp": {
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/webp",
+    "file": "bgpattern.BXkro472.webp",
+    "src": "public/images/bgpattern.webp"
+  },
+  "public/images/bgroomhome.webp": {
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/webp",
+    "file": "bgroomhome.BtSP4kuV.webp",
+    "src": "public/images/bgroomhome.webp"
+  },
+  "public/images/kbhlogo.webp": {
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/webp",
+    "file": "kbhlogo.CdBcdlus.webp",
+    "src": "public/images/kbhlogo.webp"
+  },
+  "public/images/patternlight.webp": {
+    "resourceType": "image",
+    "prefetch": true,
+    "mimeType": "image/webp",
+    "file": "patternlight.G8Tsjppe.webp",
+    "src": "public/images/patternlight.webp"
+  }
+}
