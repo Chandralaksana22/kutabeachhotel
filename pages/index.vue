@@ -58,8 +58,17 @@ onMounted(() => {
 
 <template>
   <Navbar />
-  <PopUp :popup="popup"/>
-  <HeroSection :information="information" />
+  <PopUp :popup="popup" />
+  <div class="relative h-screen w-full">
+    <!-- Video -->
+    <video class="absolute top-0 left-0 w-full h-full object-cover" autoplay loop playsinline>
+      <source src="/video/videohero.mp4" type="video/mp4" />
+      Your browser does not support the video tag.
+    </video>
+
+    <!-- Overlay -->
+    <div class="absolute bottom-0 left-0 w-full h-full bg-gradient-to-b from-transparent to-black/50"></div>
+  </div>
   <div class="py-20 container mx-auto px-5 md:px-10">
     <p class="text-center futura text-md md:text-xl text-[#135E95] font-medium">
       {{ information?.data[0]?.tagline || 'Tagline tidak tersedia' }}
@@ -83,8 +92,8 @@ onMounted(() => {
       </svg>
     </div>
     <div class="mt-10">
-      <img loading="lazy"  class="w-full object-cover h-[15rem] md:h-[30rem]" v-if="information?.data[0]?.images[2]?.path"
-        :src="information?.data[0]?.images[2]?.path" alt="Image" />
+      <img loading="lazy" class="w-full object-cover h-[15rem] md:h-[30rem]"
+        v-if="information?.data[0]?.images[2]?.path" :src="information?.data[0]?.images[2]?.path" alt="Image" />
       <div class="text-md md:text-lg mt-5 font-medium px-3 text-center"
         v-html="information?.data[0]?.description || 'Tagline tidak tersedia'"></div>
     </div>

@@ -142,6 +142,17 @@
                             </div>
                         </div>
                     </div>
+                    <div id="TA_certificateOfExcellence967" class="TA_certificateOfExcellence">
+                        <ul id="befpEWMU9Z" class="TA_links enDnxQ6vei6k">
+                            <li id="VPMBFELFg" class="tBoPFmfqwVj">
+                                <a target="_blank"
+                                    href="https://www.tripadvisor.com/Hotel_Review-g297697-d2334970-Reviews-Kuta_Beach_Hotel-Kuta_Kuta_District_Bali.html">
+                                    <img src="https://static.tacdn.com/img2/travelers_choice/widgets/tchotel_2025_L.png"
+                                        alt="TripAdvisor" class="widCOEImg h-40" id="CDSWIDCOELOGO" />
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
                     <div class="flex items-start justify-center gap-2 mt-5">
                         <a href="https://www.instagram.com/kutabeachhotel/" aria-label="social-media">
                             <svg xmlns="http://www.w3.org/2000/svg" height="32" viewBox="0 0 48 48" fill="none">
@@ -172,8 +183,9 @@
     <div class="bg-[#F8F1E8] py-2">
         <p class="text-[#135E95] text-center">Copyright© {{ currentYear }} Kuta Beach Hotel. All rights reserved.
             Powered by
-            <a href="https://mindimedia.com/">Mindimedia</a>.</p>
-            
+            <a href="https://mindimedia.com/">Mindimedia</a>.
+        </p>
+
     </div>
 </template>
 <script setup lang="ts">

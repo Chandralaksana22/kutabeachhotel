@@ -1,0 +1,1 @@
+{"version":3,"file":"offer-DpyBYJlL.mjs","sources":["../../../../server/offer.ts"],"sourcesContent":null,"names":["api","useApi","async","getOffer","get","data","error"],"mappings":"0CAEA,MAAMA,EAAMC,IAEZC,eAAsBC,IAGlB,IAAA,aADuBH,EAAII,IAAI,YACfC,WACTC,GAEDA,MAAAA,CAAAA,CAEV"}

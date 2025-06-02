@@ -1,0 +1,1 @@
+import{b as t}from"./B3DoSvDX.js";const a=t();async function r(){try{return(await a.get("/allroom")).data}catch(t){throw t}}async function o(t){try{return(await a.get(`/room?slug=${t}`)).data}catch(r){throw r}}export{o as a,r as g};

@@ -1,1 +1,0 @@
-{"version":3,"file":"dining-GXMLPada.mjs","sources":["../../../../server/dining.ts"],"sourcesContent":null,"names":["api","useApi","async","getDining","get","data","error"],"mappings":"0CAEA,MAAMA,EAAMC,IAEZC,eAAsBC,IAGlB,IAAA,aADuBH,EAAII,IAAI,YACfC,WACTC,GAEDA,MAAAA,CAAAA,CAEV"}
